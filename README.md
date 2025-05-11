@@ -2,8 +2,6 @@
 
 **Website Link:** [https://travellogo-lilac.vercel.app/](https://travellogo-lilac.vercel.app/)
 
-Got it! Here's an **improved and engaging version** of the **Overview** section, incorporating the idea of showcasing **beautiful and captivating places** like the **Taj Mahal**, **Science City**, etc.
-
 ---
 
 ## 🧭 Overview
