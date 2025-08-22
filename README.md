@@ -21,7 +21,7 @@ Get inspired, plan smarter, and travel better with TravelloGo – where every de
 
 ---
 
-## 🚀 Technologies Used
+## Technologies Used
 
 * **React.js**
 
